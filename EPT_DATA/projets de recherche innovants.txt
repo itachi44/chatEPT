@@ -1,0 +1,26 @@
+
+Les projets réalisées par l’EPT sont : 
+
+projet NrjDrone : Autonomisation énergétique des UAVs
+
+Description : Une des problématiques majeures dans l’exploitation des drones résident dans la limitation du temps de vol. L’autonomie de vol est généralement limitée à 15-30 min, avec une durée de vol maximale de 90 min actuellement atteint par les UAVs multirotors à batterie haute performance. Les systèmes d’alimentation des UAVs qui utilisent deux ou plus de sources d’énergie différentes (systèmes d’énergie hybrides) sont considérées comme une solution afin d’augmenter la durée de vol tout en conservant les principaux avantages de performance du stockage d’énergie classique avec batteries.
+L’entreprise Canadienne BIRCIS Technology & Consulting et l’EPT lancent un projet concernant l’autonomisation énergétique d’un drone. L’idée directrice est d’explorer l’optimisation des UAVs via différentes technologies d’hybridation énergétique et d’en réaliser un prototype (numérique et expérimental).
+Coordonnateur : Ibrahima KA,
+Intervenants : Birame Sy, Abdoulaye Sarr
+Partenaires : Bircis Technology & Consulting
+Stagiaires : Mouhamed Cissé (Aero), Sébastien Sipok Sina Sambou (GEM), Moustapha Thioune (GEM)
+
+
+projet Yartech : Smart Poultry Farm
+Description : L'Internet industriel des objets - IoT - est de plus en plus appliqué à tous les domaines de production à mesure que la technologie évolue. Les élevages de volailles tirent parti de cette tendance pour accroître leur productivité et faciliter leur gestion quotidienne. La production de viande de poulet est économiquement réalisable si les paramètres environnementaux sont surveillés et contrôlés afin de réduire la mortalité. Ce projet présente une solution de surveillance à distance appliquée aux élevages de poulets. La température, l'humidité et le taux d'ammoniac sont mesurés à l'aide de capteurs DHT22 et MQ137. Le principal composant matériel est un circuit imprimé conçu sur mesure où le microcontrôleur Arduino nano IoT 33 est intégré pour collecter et envoyer les données vers le cloud. Les services cloud AWS, le pipeline CDAP et la base de données PostgreSQL sont ensuite utilisés pour stocker, traiter et afficher les données pertinentes sur un tableau de bord.
+Chercheur principal : Ibrahima KA
+Partenaire : Baamtu Technologies
+projet d’assainissement et Changement Climatique : Évaluation de l’Adaptation et de la Résilience (Scare)
+Objectifs : Globalement, l’objectif de ce projet consiste à établir le lien entre l’assainissement et le changement climatique à travers la quantification des rejets atmosphériques issus des latrines et fosses septiques. Plus spécifiquement, le projet vise à :
+fournir de meilleures estimations des émissions de gaz à effet de serre associées à la chaîne d’assainissement dans les zones urbaines et les petites villes, en mettant l’accent sur l’assainissement sur site ;
+identifier les choix et options technologiques et de gestion qui permettront d’optimiser la réduction des émissions avec des services sûrs et fiables qui répondent aux besoins des femmes et des filles ;
+améliorer la compréhension de la manière de renforcer la résilience des services d’assainissement au changement climatique dans les contextes à ressources limitées et la résilience des options à faibles émissions par rapport à la pratique actuelle ;
+améliorer la disponibilité des produits et services climatiques qui fournissent des projections et des données climatiques présentées de manière à soutenir la prise de décisions opérationnelles et politiques pratiques dans la planification et le développement des services d’assainissement dans les pays à revenu faible ou intermédiaire
+Membre(s) du projet : Baba NGOM (EPT/Coordonnateur), Aliou LY (EPT), Cheikh Sadibou FAYE (EPT), Adou THIAW GAYE (EPT), Mouhamadou THIAM (EPT)
+Partenaires financiers : Institut mondial de la croissance verte (GGGI)
+Partenaires techniques : Les universités de Bristol et Leeds (Royaume Uni), Kathmandu University (Nepal), Haramaya University (Ethiopia),  Kyambogo University (Uganda).

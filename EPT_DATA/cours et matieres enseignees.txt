@@ -1,0 +1,133 @@
+Pour le tronc commun voici une description et une liste du programme d’enseignement : 
+Le département Tronc Commun de l’Ecole Polytechnique de Thies a pour mission  d’asseoir, en quatre semestres, un socle de formation scientifique et technique  à l’instar des prépas scientifiques intégrées  aux grandes écoles d’ingénieurs.
+
+C’est une  formation pluridisciplinaire répartie entre les sciences fondamentales (Mathématiques physique chimie), les  sciences de l’ingénieur, le management, les TIC et les ateliers.
+
+ Les cours sont communs pour les trois premiers semestres et un début de spécialisation est entamé au quatrième semestre dans la filière de génie choisie.
+
+A l’issue de cette formation l’élève aura acquis les outils scientifiques requis  pour suivre normalement son parcours en filière.
+
+Première année
+Anglais Technique  I
+Travaux d’Atelier  I
+Chimie Générale
+Informatique I
+Informatique  II
+Calcul différentiel et Intégral  I
+Algèbre Linéaire
+Calcul différentiel et Intégral  II
+Cinématique et Dynamique
+Electromagnétisme
+Dessin Technique I
+Dessin Technique II
+Géométrie Descriptive
+Techniques d’expression
+Thermodynamique générale
+Deuxième année
+Travaux d’Atelier  II (Option GC et GEM)
+Comptabilité générale
+Transfert de Chaleur (Option GC et GEM)
+Programmation Avancée (Option GC et GEM)
+Introduction à l’économie
+Adm. de l’Entreprise et Relations de travail
+Analyse Vectorielle
+Equations différentielles
+Analyse Numérique
+Probabilités et Statistiques
+Compléments de Maths Appliquées
+Mécanique Statique (Option GC et GEM)
+Ondes et Vibrations (Option GC et GEM)
+Dessin Technique III (DAO, CAO) (Option GC et GEM)
+Droit
+Science des Matériaux (Option GC et GEM)
+Analyse de données (Option GIT)
+Architecture des Ordinateurs et Système d’Exploitation 1 (Option GIT)
+Programmation Impérative 1 (Option GIT)
+Développement Web 1 (Option GIT)
+Stage Ouvrier
+Pour le Génie Informatique et Télécommunication (GIT) voici une description et une liste du programme d’enseignement : 
+Initialement prévu parmi les axes du plan stratégique de l’EPT à la suite de l’autonomisation de celle-ci en 2009, le département du Génie Informatique et Télécommunications (GIT) fut créé dans la foulée par arrêté du Directeur de l’EPT suite à une proposition du conseil pédagogique de l’EPT. Toutefois, il n’a ouvert ses portes qu’en 2012-2013. Avec un démarrage par concours direct de niveau bac +2, et accompagné par le recrutement du corps enseignant. Les enseignements ont démarré en Mars 2013 suivant une modalité de formation en alternance en partenariat avec une entreprise privée. Les maquettes de formation ont fait l’objet d’une co-construction avec les entreprises partenaires aussi bien dans la phase de conception que dans la mise en œuvre des enseignements-apprentissages.
+
+La formation en Génie Informatique et Télécommunications (GIT) est dispensée depuis l’année académique 2012-2013 et est portée, au sein de l’EPT, par le département du Génie Informatique et Télécommunications (GIT). Elle a pour objectif de former des ingénieurs de conception généralistes dans les métiers des TIC.
+
+Le modèle pédagogique du GIT est inspiré de l’Approche par Compétences (APC) dont le département a su faire une subtile adaptation. C’est ainsi dans les maquettes pédagogiques, une importante place est réservée à la culture de l’autonomie de l’élève ingénieur et la centralité autour de l’acquisition de compétences des apprenants est le fil conducteur de la mise en œuvre des programmes. Une autre caractéristique du modèle pédagogique est la flexibilité et l’agilité permettant de s’adapter aux besoins des entreprises et de la recherche développement. Chaque matière ou élément constitutif comporte une partie d’enseignement sous forme de projet. Au-delà de ces projets par éléments constitutifs, chaque année, des projets transversaux sont conçus et encadrés par le corps de formateurs. Ils font l’objet d’un nombre de crédits à la hauteur d’un enseignement ou unité d’enseignement favorisant l’association de plusieurs savoirs associés pour l’acquisition de compétences professionnelles.
+Le département du GIT compte actuellement 9 enseignants-chercheurs permanents qui assurent 67% des enseignements sur le site de l’EPT. Sept (8) d’entre eux ont été recruté entre 2013 et 2020, et ils étaient tous de jeunes docteurs car ayant soutenu leur thèse après 2010 dont un professeur de rang A, maître de conférences CAMES, habileté à diriger des recherches. Les formateurs du GIT sont assez actifs comme chercheurs et produisent des publications de renommées internationales. Le Laboratoire LTISI monté au sein du GIT a déjà à son actif plusieurs thèses en informatique encadrées entièrement par les enseignants chercheurs du département.
+Le corps enseignant fait preuve d’un réel engagement, rendant ainsi collégial la gestion du département. Les enseignants assurent une bonne couverture scientifique à l’internationale à travers leurs publications et certains ont même effectué et soutenu leur thèse à l’étranger.
+Dans le modèle de formation en alternance du GIT, le reste des 33% des enseignements dispensés sur le site de l’École sont assurés par des intervenants externes, qui nous proviennent des universités sénégalaises ou du monde socio-professionnel. Ils viennent porter main forte surtout sur des spécialités dont le département ne dispose pas encore. L’expertise professionnelle est capitale pour mieux être en contact des évolutions dans les TIC, aussi bien en termes technologies que bonnes pratiques.
+Dans la phase d’immersion des élèves ingénieurs du GIT, les managers des entreprises assurent plus de 70% de l’encadrement en vraie situation de travail.
+En effet la formation en GIT est la première au Sénégal se faisant entièrement en alternance école-entreprise dans le supérieur public. Le programme d’études proposé au GIT repose sur une approche par compétences (APC) et est Co-construit avec des entreprises partenaires spécialisées dans les TIC.
+Plus de 6 enseignants sur 7 du GIT ont de l’expérience dans l’élaboration de référentiels de formation par l’APC. L’objectif de cette collaboration et de cette innovation pédagogique est de former des ingénieurs qui intègrent la culture de l’entreprise et les compétences requises les rendant opérationnels avant la fin de leur formation. La base académique acquise à l’EPT est alors consolidée par les entreprises qui assurent aux étudiants un solide complément d’encadrement professionnel et métier.
+Ce qui permet aux élèves ingénieurs d’allier théorie, pratique et mise en situation réelle durant tout leur cursus. L’ensemble des projets de fin d’études traite de sujets réels des entreprises.
+La base de recrutement du GIT à l’instar des autres départements de cycle ingénieur de l’EPT est le Tronc Commun (ou années préparatoires). Après les trois (3) premières promotions, toutes celles qui suivent sont constituées d’élèves ingénieurs ayant fait le concours d’entrée de niveau baccalauréat et ont suivi deux années préparatoires. Il s’agit de quatre (4) semestres dont le dernier est un semestre qui prépare à la spécialisation avec des éléments constitutifs en informatique et télécommunications.
+Le département du GIT renforce l’autonomie, la créativité et l’innovation des élèves ingénieurs par la culture de la fabrication numérique par le biais d’un Fablab. Celui-ci est le réceptacle de certains cours que les étudiants des années préparatoires font avant même d’être entièrement sous la responsabilité du GIT.
+Le rapport de l’évaluation du CITEF en 2014 a consacré le modèle du GIT comme une innovation. Le programme d’études s’emploie à maintenir une dynamique de qualité en maintenant un niveau d’atteinte des standards de qualité tout en s’ajustant aux besoins du monde socio-professionnel.
+Les objectifs des 5 années de formation en GIT, sont répartis comme suit :
+Le cycle préparatoire du TC (2 années : TC1 et TC2) initie les étudiants aux fondamentaux de base en mathématiques, en sciences physiques et chimiques, en informatique, en humanités (techniques de communications, gestion, etc.) nécessaires à l’acquisition des spécialités des sciences de l’ingénieur comme le GIT.
+Le cycle d’ingénieur spécialisé du DIC (3 années : DIC1, DIC2, et DIC3) prépare les étudiants à diverses compétences (connaissances, aptitudes et savoir-faire) dans la modélisation, la réalisation, et le déploiement de systèmes d’informations, de systèmes logiciels d’entreprise, de systèmes de bases de données, de systèmes de sécurité logiciel, et de systèmes de qualité logicielle, de systèmes réseaux et télécoms.
+Les débouchés
+A l’issue de leur formation, les ingénieurs diplômés du GIT de l’EPT, peuvent servir dans les métiers
+d’analyste,
+de concepteur,
+d’architecte,
+de développeur,
+de testeur et d’administrateur de systèmes logiciels métiers,
+de chef de projet métier,
+de chef d’équipe technique,
+Ils pourront ainsi intégrer toutes les sociétés et organisations évoluant dans les Technologies de l’Information et de la Communications (TIC) et fournissant des services dans la production et la maintenance des systèmes de réseaux et télécommunications, des systèmes d’informations, des systèmes de sécurité de réseaux informatiques et télécoms, des systèmes de bases de données, des systèmes de sécurité logicielle, et des systèmes de qualité logicielle.
+L’ingénieur issu du GIT peut aussi poursuivre ses études dans des mastères spécialisés ou dans un cycle doctoral de recherche, à l’EPT ou ailleurs, pour approfondir ses connaissances et faire évoluer son expertise dans le domaine de l’informatique et des télécommunications.
+Le contenu des enseignements
+La formation en GIT vise des contenus pédagogiques qui permettent d’acquérir six catégories de compétences que chaque étudiant se doit d’acquérir à l’issue de sa formation.
+Pour le Génie Génie Electromécanique (GEM) voici une description et une liste du programme d’enseignement : 
+Le département Génie Electromécanique a pour mission de former des ingénieurs de conception dans les domaines de l’électronique, de l’électrotechnique et de la mécanique. Il a pour objectif de former des ingénieurs généralistes présentant un bon équilibre entre les connaissances scientifiques, technologiques et systèmes.
+La formation dans cette spécialité permet de prendre en compte, dans une démarche d’ingénierie simultanée, toutes les données relatives à la vie d’un produit ou d’un système, depuis l’avant-projet jusqu’à sa réalisation et son recyclage éventuel. La formation proposée par le département génie électromécanique est le Diplôme d’Ingénieur de Conception en électromécanique. Le programme vise à doter l’ingénieur de compétences larges, basées sur la complémentarité des connaissances pluridisciplinaires scientifiques et techniques qui relèvent du Génie Mécanique et du Génie Électrique.
+La formation a pour objectifs de:
+permettre l’adaptation des diplômés à une grande variété d’emplois
+faciliter leur mobilité et toute évolution ultérieure de carrière
+leur donner la possibilité d’une poursuite d’études
+Les compétences acquises en formation peuvent s’exercer dans des secteurs multiples en particulier:
+Production mécanique ;
+Maintenance industrielle ;
+Bureaux d’études ;
+Production d’énergie ;
+Technico-commercial ;
+Recherche et développement.
+Les titulaires du diplôme peuvent occuper les postes suivants :
+Chef de projet;
+Directeur technique ;
+Responsable de bureau d’études
+Le département Génie Électromécanique a pour objectif de former des ingénieurs généralistes présentant un bon équilibre entre les connaissances scientifiques, technologiques et systèmes.
+La formation dans cette spécialité permet de prendre en compte, dans une démarche d’ingénierie simultanée, toutes les données relatives à la vie d’un produit ou d’un système, depuis l’avant-projet jusqu’à sa réalisation et son recyclage éventuel.
+Elle vise à doter l’ingénieur de compétences larges, basées sur la complémentarité des connaissances pluridisciplinaires scientifiques et techniques qui relèvent du Génie Mécanique et du Génie Électrique.
+Pour le Génie Informatique et Télécommunication (GIT) voici une description et une liste du programme d’enseignement : 
+Le département Génie Civil a pour objectif de former des ingénieurs généralistes présentant un bon équilibre entre les connaissances scientifiques et technologiques orientées vers les sciences de la construction.
+La formation vise à doter l’ingénieur de compétences larges, basées sur la complémentarité des connaissances pluridisciplinaires scientifiques et techniques qui relèvent du Génie Civil.
+Le régime des études : 
+La durée des études pour la formation des élèves ingénieurs est de cinq ans à temps plein répartir-en :
+un premier cycle de tronc commun de quatre semestres, soit 2 ans ;
+un second cycle de spécialisation de six semestres, soit 3 ans.
+La durée annuelle de formation est de trente-deux (32) semaines.
+Les enseignements : 
+La formation en génie civil permet au futur ingénieur de conception :
+de maîtriser les outils fondamentaux et appliqués requis ;
+de concevoir, de planifier, de réaliser, d’exploiter des ouvrages et d’en assurer la maintenance ;
+d’intégrer et de développer le milieu industriel ;
+de maîtriser les techniques de communication et de gestion.
+Domaines de compétence
+Hydraulique –Assainissements – Génie urbain et rural
+Géotechnique – Mécanique des sols – VRD – Géomatique et Sciences topographiques
+
+Bâtiments – Structures et Béton armé
+Management – Sciences humaines
+Le programme de formation de l’ingénieur de conception en génie civil permet à l’étudiant :
+d’acquérir une formation pertinente à l’ingénierie, dans les domaines des mathématiques, des sciences fondamentales et appliquées ;
+d’acquérir une formation professionnelle nécessaire à la conception, au dimensionnement et à la réalisation d’ouvrages et d’infrastructures dans les domaines suivants :
+les travaux publics, les structures métalliques et/ou en béton des bâtiments et les équipements des bâtiments et ouvrages ;
+la maîtrise, l’aménagement et l’utilisation optimale des ressources hydriques
+les systèmes de production, de traitement ainsi que les réseaux de distribution d’eaux potables, eaux usées et eaux pluviales ;
+les génies urbain et maritime ;
+d’acquérir des connaissances en communications écrite et orale, en sciences humaines, en gestion technique, économique, finances et en législation et droit, en vue de se préparer à une pratique professionnelle efficace et responsable ; de consolider les connaissances acquises, par des activités de synthèse comme les stages et les immersions en l’entreprise, les visites industrielles, les mémoires ou projets de fin d’études.
+La formation vise à doter l’ingénieur de compétences larges, basées sur la complémentarité des connaissances pluridisciplinaires scientifiques et techniques qui relèvent du Génie Civil.
+Secteurs d’intervention : 
+Bâtiment (structures, équipements techniques…)
+Travaux publics (AEP, ponts, routes, terrassements…)
+Aménagement urbain (voirie, assainissement, réseaux divers…)
