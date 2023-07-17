@@ -24,5 +24,5 @@ def process_text():
     response_text = result.response.replace("\n", "")
     return jsonify({"response": response_text})
 
-if __name__ == '_main_':
+if __name__ == '__main__':
     app.run()
